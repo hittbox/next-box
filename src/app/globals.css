@@ -1,3 +1,7 @@
+/*
+  # CSS 라이브러리와의 연계 고려해서 수정
+*/
+
 :root {
   --background: #ffffff;
   --foreground: #171717;

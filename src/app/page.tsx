@@ -1,3 +1,7 @@
+/*
+  # Root path 페이지의 적절한 형태 공부해서 수정
+*/
+
 import Image from "next/image";
 import styles from "./page.module.css";
 

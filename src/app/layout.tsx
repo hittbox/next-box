@@ -1,3 +1,7 @@
+/*
+  # Next.js 스타일의 레이아웃 공부해서 수정
+*/
+
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
